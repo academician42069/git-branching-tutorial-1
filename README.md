@@ -1,1 +1,3 @@
-# git-branching-tutorial-1
+# Git branching tutorial.
+
+TODO: delete this later.
